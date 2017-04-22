@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mailgun",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Loopback connector module which allow to send emails via Mailgun",
   "main": "index.js",
   "keywords": [
