@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mailgun",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Loopback connector module which allow to send emails via Mailgun",
   "main": "index.js",
   "keywords": [
@@ -14,7 +14,7 @@
     "bluebird": "^3.3.4",
     "lodash": "^4.6.1",
     "mailcomposer": "^3.6.3",
-    "mailgun-js": "^0.7.7",
+    "mailgun-js": "^0.13.1",
     "mime": "^1.3.4"
   },
   "devDependencies": {},
