@@ -35,6 +35,7 @@ Additionaly you can set defaults
         "mailgun": {
             "connector": "loopback-connector-mailgun",
             "apikey": "[your api key here]",
+            "host": "[your mailgun region here]"
             "defaults": {
                 "someSettings": "SomeSettingsValues"
             }
